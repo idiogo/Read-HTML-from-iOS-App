@@ -37,20 +37,20 @@
 		DB7A08BD152B7BB500759EEF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		DB7A08BF152B7BB500759EEF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DB7A08C1152B7BB500759EEF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		DB7A08C5152B7BB500759EEF /* HtmlContentTest-Info.plist */ = {isa = PBXFileReference; path = "HtmlContentTest-Info.plist"; sourceTree = "<group>"; };
+		DB7A08C5152B7BB500759EEF /* HtmlContentTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HtmlContentTest-Info.plist"; sourceTree = "<group>"; };
 		DB7A08C7152B7BB500759EEF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DB7A08C9152B7BB500759EEF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DB7A08CB152B7BB500759EEF /* HtmlContentTest-Prefix.pch */ = {isa = PBXFileReference; path = "HtmlContentTest-Prefix.pch"; sourceTree = "<group>"; };
-		DB7A08CC152B7BB500759EEF /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		DB7A08CB152B7BB500759EEF /* HtmlContentTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HtmlContentTest-Prefix.pch"; sourceTree = "<group>"; };
+		DB7A08CC152B7BB500759EEF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DB7A08CD152B7BB500759EEF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		DB7A08D0152B7BB500759EEF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		DB7A08D2152B7BB500759EEF /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		DB7A08D2152B7BB500759EEF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		DB7A08D3152B7BB500759EEF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		DB7A08DA152B7BB500759EEF /* HtmlContentTestTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HtmlContentTestTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB7A08DB152B7BB500759EEF /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		DB7A08E3152B7BB500759EEF /* HtmlContentTestTests-Info.plist */ = {isa = PBXFileReference; path = "HtmlContentTestTests-Info.plist"; sourceTree = "<group>"; };
+		DB7A08E3152B7BB500759EEF /* HtmlContentTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HtmlContentTestTests-Info.plist"; sourceTree = "<group>"; };
 		DB7A08E5152B7BB500759EEF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		DB7A08E7152B7BB500759EEF /* HtmlContentTestTests.h */ = {isa = PBXFileReference; path = HtmlContentTestTests.h; sourceTree = "<group>"; };
+		DB7A08E7152B7BB500759EEF /* HtmlContentTestTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HtmlContentTestTests.h; sourceTree = "<group>"; };
 		DB7A08E8152B7BB500759EEF /* HtmlContentTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HtmlContentTestTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

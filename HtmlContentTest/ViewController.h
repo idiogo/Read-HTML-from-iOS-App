@@ -10,4 +10,13 @@
 
 @interface ViewController : UIViewController
 
+@property (strong,nonatomic) IBOutlet UIWebView *navegador;
+@property (strong,nonatomic) IBOutlet UILabel *resposta;
+@property (strong,nonatomic) IBOutlet UIView *respostaView;
+
+- (IBAction) mostraConteudo;
+- (IBAction) atualizaPagina:(NSString *)pagina;
+- (IBAction) escondeResposta;
+- (IBAction) mostraResposta:(NSString *)str;
+
 @end
