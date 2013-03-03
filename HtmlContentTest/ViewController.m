@@ -46,6 +46,7 @@
 
 - (IBAction) mostraResposta:(NSString *)str{
     resposta.text = str;
+	resposta.backgroundColor = [UIColor whiteColor];
     respostaView.hidden = NO;
 }
 
